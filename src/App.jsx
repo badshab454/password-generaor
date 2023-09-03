@@ -1,7 +1,7 @@
 
 const App = () => {
   return (
-    <div>Password Generator</div>
+    <div className="text-4xl font-bold">Password Generator</div>
   )
 }
 
